@@ -38,8 +38,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learned how to make a slider element. I did a research by looking some code from codepen.io. But I got very useful code from [this](https://codepen.io/LimongiVirgil/pen/BaJomrz?editors=1100) and [this also](https://codepen.io/husa7b02589c6/pen/oNvZjgP). I also learned to use srcset in image element.
