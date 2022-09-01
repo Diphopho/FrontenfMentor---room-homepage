@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Room Homepage master](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub/room-homepage-master-voFJD8PgWy)
+- Live Site URL: [Vercel app](https://frontenf-mentor-room-homepage.vercel.app)
 
 ## My process
 
