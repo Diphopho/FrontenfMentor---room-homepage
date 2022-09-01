@@ -3,6 +3,11 @@ const hero = document.getElementsByClassName("hero");
 let nbSlide = hero.length;
 let pos = 0;
 
+document.onkeydown = function (evt) {
+  if (evt.key === "ArrowRight") next();
+  if (evt.key === "ArrowLeft") prev();
+};
+
 function next() {
   pos -= 100;
 
